@@ -11,7 +11,7 @@
   "updateChangelog": "• Fast streaming server fixes\n• Server 3 performance upgrades\n• New titles added",
   "isForceUpdate": false,
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "title": "Welcome to PRO Movies!",
     "message": "All 3 servers are online. Enjoy ad-free cinema and fast downloads.",
     "buttonText": "Got It",
