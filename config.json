@@ -1,1 +1,20 @@
 
+{
+  "server1": "https://new1.hdhub4u.free",
+  "server2": "https://hdmoviesbd.xyz",
+  "server3": "https://www.filmyzilla71.com",
+  "activationKey": "Film009",
+  "latestVersionCode": 16,
+  "latestVersionName": "1.6",
+  "updateDownloadUrl": "https://gofile.io/d/uE4b6f1x",
+  "updateTitle": "New Update Available!",
+  "updateChangelog": "• Fast streaming server fixes\n• Server 3 performance upgrades\n• New titles added",
+  "isForceUpdate": false,
+  "notice": {
+    "enabled": true,
+    "title": "Welcome to PRO Movies!",
+    "message": "All 3 servers are online. Enjoy ad-free cinema and fast downloads.",
+    "buttonText": "Got It",
+    "buttonUrl": ""
+  }
+}
